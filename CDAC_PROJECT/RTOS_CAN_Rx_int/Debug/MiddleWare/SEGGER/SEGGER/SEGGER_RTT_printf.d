@@ -1,0 +1,6 @@
+MiddleWare/SEGGER/SEGGER/SEGGER_RTT_printf.o: \
+ ../MiddleWare/SEGGER/SEGGER/SEGGER_RTT_printf.c \
+ ../MiddleWare/SEGGER/SEGGER/SEGGER_RTT.h \
+ ../MiddleWare/SEGGER/SEGGER/SEGGER_RTT_Conf.h
+../MiddleWare/SEGGER/SEGGER/SEGGER_RTT.h:
+../MiddleWare/SEGGER/SEGGER/SEGGER_RTT_Conf.h:

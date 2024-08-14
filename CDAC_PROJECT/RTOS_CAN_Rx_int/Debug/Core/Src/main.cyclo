@@ -1,0 +1,13 @@
+../Core/Src/main.c:112:5:main	5
+../Core/Src/main.c:205:6:SystemClock_Config	3
+../Core/Src/main.c:247:13:MX_CAN2_Init	2
+../Core/Src/main.c:284:13:MX_I2C1_Init	2
+../Core/Src/main.c:317:13:MX_GPIO_Init	1
+../Core/Src/main.c:344:6:LCD_Init	1
+../Core/Src/main.c:355:6:CAN_Filter_Config	2
+../Core/Src/main.c:379:6:WasteFullLED	1
+../Core/Src/main.c:394:6:Deferred_Task	2
+../Core/Src/main.c:457:6:CAN2_RX0_IRQHandler	8
+../Core/Src/main.c:533:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:550:6:Error_Handler	1
+../Core/Src/main.c:569:6:assert_failed	1
